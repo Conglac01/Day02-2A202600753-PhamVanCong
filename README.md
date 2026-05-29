@@ -1,0 +1,1 @@
+ ở file  5problems+top3problemCards.md dùng mdview để xem chuẩn form, mở open with chọn chế độ xem markdowpn review
